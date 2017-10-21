@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  SimpleGLUT.cpp
+SimpleGLUT.cpp(377): warning C4101: “k”: 未引用的局部变量
+  SimpleGLUT.vcxproj -> D:\computer Graphic\Yan_LAB3\.\Debug\SimpleGLUT.exe
+  SimpleGLUT.vcxproj -> .\Debug\SimpleGLUT.pdb (Full PDB)
